@@ -1,0 +1,8 @@
+{
+  "name": "playwright",
+  "version": "0.1.0",
+  "exec": "./index.ts",
+  "language": "typescript",
+  "description": "Token-efficient browser automation through Playwright CLI",
+  "enabled": true
+}
